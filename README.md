@@ -27,7 +27,6 @@ Resume Screening Project/
 │   ├── 02_compare_model_to_baseline.py  # Evaluation vs baseline (MiniLM)
 │   ├── 03_compare_model_to_human.py     # Human ranking vs model (Kendall Tau, Spearman Rho)
 │   ├── 04_rank_cvs_given_job_descriptions.py  # Run ranking on new job/CV pairs
-│   ├── 05_rank_sample_set_2.py          # Alternate job/CV ranking demo
 ```
 
 ## 🚀 How to Run
