@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Pyre type checker
+.pyre/
+
+# Data and logs
+*.log
+*.csv
+*.tsv
+*.sqlite
+*.db
+
+# Secret keys and credentials
+*.key
+*.pem
+*.env
+openai_key.txt
+
+# Model files
+*.pt
+*.pkl
+*.bin
+*.h5
+
+# Output models
+dual_encoder_full_model/
+triplets_with_*.csv
+full_resume_dataset_with_queries.csv
+final_triplets_for_training.csv
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+
+# Local configuration files
+.env
