@@ -46,7 +46,6 @@ venv.bak/
 
 # Data and logs
 *.log
-*.csv
 *.tsv
 *.sqlite
 *.db
