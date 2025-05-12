@@ -63,11 +63,6 @@ openai_key.txt
 *.bin
 *.h5
 
-# Output models
-dual_encoder_full_model/
-triplets_with_*.csv
-full_resume_dataset_with_queries.csv
-final_triplets_for_training.csv
 
 # System-specific files
 .DS_Store
