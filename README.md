@@ -12,6 +12,7 @@ Traditional resume screening methods suffer from issues like keyword dependence,
 Resume Screening Project/
 │
 ├── Research Report.docx               # Final report for academic submission
+├── Human Evaluation Information      # Doc summarizing candidate rankings by 5 humans for the script 04
 ├── requirements.txt                  # Python dependencies
 ├── dual_encoder_full_model/         # Fine-tuned SentenceTransformer model
 │
